@@ -48,5 +48,5 @@ def fun(di, si):
 di = n1
 for i in range(1001):
     ax, _, _ = fun(di, i)
-    if ax == 4:
+    if ax == 2:
         print(i, ax)
