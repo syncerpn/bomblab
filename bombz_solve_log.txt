@@ -1,0 +1,20 @@
+//string compare
+Oh, play it cool. Play it cool. Here come the space cops.
+
+//day so tang +5, khoi dau bat ky
+1 6 11 16 21 26
+
+//simple branching
+0 948
+
+//fibonacci 6765
+19
+
+//input char % 16, dung lam index cho array. tong cac so rut ra = 0x38
+124567
+
+//sap xep linked list giam dan
+1 4 6 5 3 2
+1 4 6 5 2 3
+
+//also binary tree

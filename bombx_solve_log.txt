@@ -1,0 +1,28 @@
+Speedy thing goes in, speedy thing comes out.
+1 2 6 24 120 720
+0 -1211
+12 austinpowers
+7 93
+5 4 3 1 2 6
+7
+
+//string compare
+Speedy thing goes in, speedy thing comes out.
+
+//sequence starting with 1, next num = prev num * index
+1 2 6 24 120 720
+
+//branching, first num must be smaller than 6
+0 -1211
+1 -1880
+2 -965
+3 -1165
+4 -562
+5 -784
+
+//fibonacci 233
+12
+
+//decode func, second num = f(first num), second num must be = 93
+
+//linked list 

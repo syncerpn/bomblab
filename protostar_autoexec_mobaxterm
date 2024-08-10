@@ -1,0 +1,1 @@
+if [ ! -f .gdbinit ]; then touch .gdbinit; echo "set disassembly-flavor intel" >> .gdbinit; fi; if [ ! -f input.txt ]; then touch input.txt; fi; export PATH="$PATH:/opt/protostar/bin"; /bin/bash;
